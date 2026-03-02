@@ -24,21 +24,21 @@ I am particularly interested in applying machine learning to cybersecurity workf
 
 ## 💼 Current Roles
 
-* 🖥️ System Administrator — Tech Chantier, Cameroon
+* 🖥️ System Administrator — <a href="techchantier.com" target="blank"> Tech Chantier, Cameroon </a>
   Managing infrastructure, deployment environments, and supporting secure technical operations for software solutions and IT talent acceleration.
 
-* 🧑‍🏫 Computer Science Instructor — Ministry of Secondary Education, Cameroon
+* 🧑‍🏫 Computer Science Instructor — <a href="https://www.minesec.gov.cm/" target="blank"> Ministry of Secondary Education, Cameroon </a>
   Teaching core computing and software engineering principles.
 
 * 🎓 Part-time Lecturer — CHUITECHMA University Institute, Buea
-  Teaching and supporting university-level technical education.
+  Teaching and supporting university-level engineering education.
 
 ---
 
 ## 🎓 Academic Background
 
-* 🎓 MTech — Network and Information Security (In Progress)
-* 🎓 BTech — Computer Engineering (Software Engineering)
+* 🎓 MTech — Network and Information Security (In Progress), <a href ="https://www.chitechma.com/" target="_blank" rel="noopener noreferrer">CHITECHMA Univerity Institute Buea</a>
+* 🎓 BTech — Computer Engineering (Software Engineering), <a href ="https://www.ubuea.cm/" target="_blank" rel="noopener noreferrer">University of Buea</a>
 
 My graduate research focuses on cyber-forensic system development using machine learning and forensic dataset engineering.
 

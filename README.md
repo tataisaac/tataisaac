@@ -99,11 +99,18 @@ Development of a forensic investigation system integrating machine learning dete
 
 Engineering components include:
 
+* 📇 Plagiarism detection system (Plagirism Police)
 * 🤖 Transformer model fine-tuning (DistilBERT)
 * 📊 Classical machine learning baseline models (SVM with TF-IDF)
 * 🧾 Forensic dataset design and annotation framework
 * 🚀 GPU-accelerated model training and inference
 * 🖥️ Investigator-focused detection interface
+* 📻 Program Log, program logger for radio broadcast
+* 🔐 Adguard - Biometric security audit plugin for web browsers
+* 🗳️ Biometric voting sytem (LibreVox)
+* 🔐 Keystroke dynamics IDS: machine learning IDS for windows computers
+* 🧦 Inventory management system
+* 🎒 School management system
 
 ---
 

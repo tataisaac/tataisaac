@@ -108,7 +108,7 @@ Engineering components include:
 * 📻 Program Log, program logger for radio broadcast
 * 🔐 Adguard - Biometric security audit plugin for web browsers
 * 🗳️ Biometric voting sytem (LibreVox)
-* 🔐 Keystroke dynamics IDS: machine learning IDS for windows computers
+* 🔐 Keystroke dynamics IDS: machine learning IDS for windows computers {in progress}
 * 🧦 Inventory management system
 * 🎒 School management system
 

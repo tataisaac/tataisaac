@@ -1,4 +1,4 @@
-# T.I — Cybersecurity Engineer | Cyber-Forensics | Machine Learning 🔐🤖
+# Tata — Cybersecurity enthusiast | Cyber-Forensics | Machine Learning | Software Development 🔐🤖
 
 <a href="https://linkedin.com/in/tata-isaac-85b78584/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -165,5 +165,4 @@ These activities support long-term focus and creative thinking required for engi
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
  

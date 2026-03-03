@@ -6,7 +6,7 @@
 <a href="https://github.com/tataisaac">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:tifombang@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Cybersecurity enthausiast and researcher specializing in cyber-forensics and machine learning for digital investigations. My work focuses on designing and developing systems that support detection, forensic analysis, and investigation of malicious and harmful digital activity.
+I am a Cybersecurity enthausiast and researcher with keen interest in cyber-forensics and machine learning for digital investigations with a software developement background. My work focuses on designing and developing systems that support detection, forensic analysis, and investigation of malicious and harmful digital activity.
 
 My primary research involves building forensic-reliable machine learning systems for detecting hate speech and harmful content on social media platforms, with emphasis on evidential integrity, traceability, and investigative usability.
 
